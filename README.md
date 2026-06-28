@@ -37,4 +37,4 @@ Phase 4 — Refinement (November 2026–January 2027)
 Peer review, revisions and final submission preparation.
 
 ## Status
-🟡 In Progress — Data collection phase
+🟠 In Progress — Analysis and Writing Phase
