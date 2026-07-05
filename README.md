@@ -28,7 +28,7 @@ FolderContents/dataMaster champion dataset, era-adjusted tables, Finals runner-u
 
 ## Process
 Phase 1 — Data Collection (June–July 2026)
-Building the master dataset covering all 36 champions across three eras including team statistics, player contributions and front office decisions.
+Building the master dataset covering all 37 champions across three eras including team statistics, player contributions and front office decisions.
 Phase 2 — Analysis (August 2026)
 Era-by-era pattern analysis, framework development and Championship Cube scoring rubric construction.
 Phase 3 — Writing (September–October 2026)
