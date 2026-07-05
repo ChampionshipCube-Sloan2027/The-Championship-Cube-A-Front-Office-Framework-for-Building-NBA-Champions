@@ -24,9 +24,13 @@ GitHub (open-source repository)
 
 ## Data
 All data is sourced from Basketball Reference and covers every NBA champion and Finals runner-up from 1990 to 2026.
+
 /data — Master champion dataset, era-adjusted tables, Finals runner-up comparisons, Coach Face analysis dataset
+
 /notes — Research notes and methodology documentation
+
 /scripts — Python analysis scripts for era analysis, gap analysis and logistic regression
+
 /abstract — Abstract v1 submitted to SSAC27
 
 ## Process
