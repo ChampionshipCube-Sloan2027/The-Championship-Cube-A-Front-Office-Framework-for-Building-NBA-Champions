@@ -31,8 +31,7 @@ Phase 1 — Data Collection (June–July 2026)
 Building the master dataset covering all 37 champions across three eras including team statistics, player contributions and front office decisions.
 Phase 2 — Analysis (August 2026)
 Era-by-era pattern analysis, framework development and Championship Cube scoring rubric construction.
-Phase 3 — Writing (September–October 2026)
-Full paper drafting, abstract submission to MIT Sloan Sports Analytics Conference 2027.
+Phase 3 — Writing (July–October 2026) Full paper drafting across six dimensional sections. Abstract submitted to MIT Sloan Sports Analytics Conference 2027 on October 1st.
 Phase 4 — Refinement (November 2026–January 2027)
 Peer review, revisions and final submission preparation.
 
