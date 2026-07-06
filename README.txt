@@ -26,6 +26,6 @@ Phase 1 — Data Collection — Building the full dataset of 74 observations cov
 Phase 2 — Analysis — Identifying repeatable patterns across eras and turning them into a scoring framework.
 Phase 3 — Writing — Drafting the paper across six dimensional sections with real data behind every argument.
 Phase 4 — Refinement — Revising, stress-testing the logic, and preparing the final submission.
----------------------------------------------
+----------------------------------------------------------------------------------------------
 Current Status:
 In progress — analysis and writing phase.
