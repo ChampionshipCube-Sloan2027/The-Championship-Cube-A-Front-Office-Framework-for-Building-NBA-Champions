@@ -248,7 +248,7 @@ The quantitative analysis, abstract, KIRIN prototype, and qualitative audit work
 
 The repository is being prepared for final public release and conference submission. The research paper remains subject to further review and revision.
 
-## How to cite this project
+How to cite this project
 
 If you use the framework, code, prototype, or reported results, please cite the project using the citation information in `CITATION.cff`.
 
@@ -258,7 +258,7 @@ Suggested paper citation:
 
 If a DOI or published version becomes available, the citation information will be updated.
 
-## Licence
+Licence
 
 The original code in this repository is released under the MIT License.
 
@@ -268,6 +268,6 @@ Third-party data and external libraries remain subject to their own licences and
 
 See the `LICENSE` file for the code licence and the relevant source documentation for data-use conditions.
 
-## Contact
+Contact
 
 For questions about the research, methodology, KIRIN prototype, or reproducibility, please open a GitHub issue or contact Mohammad Rahman through GitHub.
