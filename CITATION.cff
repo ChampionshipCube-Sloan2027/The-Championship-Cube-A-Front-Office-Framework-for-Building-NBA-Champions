@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, the KIRIN diagnostic tool, or the Championship Cube framework, please cite as below."
+title: "The Championship Cube: A Front Office Framework for Building NBA Champions"
+type: software
+authors:
+  - given-names: Mohammad
+    family-names: "[ADD SURNAME]"
+    affiliation: "Royal Holloway, University of London"
+repository-code: "[ADD GITHUB URL]"
+abstract: >
+  A six-dimensional framework (Team Face, Player Face, Coach Face, Front
+  Office Face, Controllable External Face, Uncontrollable External Face)
+  for evaluating NBA championship contention, built from a 74 team-season
+  dataset (37 champions, 37 Finals runners-up, 1990-2026). Includes the
+  KIRIN prototype, a live self-assessed diagnostic tool implementing the
+  same framework as a forward-looking instrument.
+keywords:
+  - sports analytics
+  - basketball
+  - NBA
+  - front office
+  - decision support
+license: MIT
+date-released: "2026-08-27"
