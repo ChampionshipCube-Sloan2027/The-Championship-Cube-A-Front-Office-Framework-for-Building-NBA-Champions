@@ -4,9 +4,9 @@ title: "The Championship Cube: A Front Office Framework for Building NBA Champio
 type: software
 authors:
   - given-names: Mohammad
-    family-names: "[ADD SURNAME]"
+    family-names: "Rahman"
     affiliation: "Royal Holloway, University of London"
-repository-code: "[ADD GITHUB URL]"
+repository-code: "https://github.com/ChampionshipCube-Sloan2027/The-Championship-Cube-A-Front-Office-Framework-for-Building-NBA-Champions"
 abstract: >
   A six-dimensional framework (Team Face, Player Face, Coach Face, Front
   Office Face, Controllable External Face, Uncontrollable External Face)
