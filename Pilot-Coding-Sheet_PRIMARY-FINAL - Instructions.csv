@@ -1,0 +1,20 @@
+Championship Cube - Pilot Coding Sheet
+"Your job: give each team-season a holistic 0-2 score on three faces, with evidence and a one-line rationale."
+Work alone. Do not discuss scores with the other coder until both sheets are finished and saved.
+
+"SCORES: 0 = absent or harmful. 1 = partial, mixed or ambiguous. 2 = clear, substantial alignment backed by documented evidence."
+"If evidence is genuinely too thin to score, enter NA and say why. Do not guess. NA counts are reported."
+
+"EVIDENCE RULE: use only information available BEFORE Game 1 of that season's Finals (transactions, contracts, injuries, schedule, contemporary coverage). Nothing from the Finals or later."
+Do not look up who won. Do not code from memory of the outcome; find a source for each score.
+
+"FACE DEFINITIONS (use the prompts as evidence guides, then give one holistic score):"
+"FRONT OFFICE: Was the roster built sensibly? Prompts: drafting/developing a core with trades used to accelerate it, not free agency alone; no single oversized commitment crowding out depth; willingness to make a well-reasoned long-term decision."
+"CONTROLLABLE EXTERNAL: Did the organisation manage what it controls beyond the roster? Prompts: workload/rest planning, depth for schedule congestion, investment in recovery, medical and conditioning. Evidence for early seasons is often thin - use NA when it is."
+"UNCONTROLLABLE EXTERNAL: How did the team fare against factors it cannot control, using only pre-Finals information? Prompts: depth to absorb an injury to a top player; execution and identity kept intact after tough losses; success not dependent on one player's availability."
+
+FILL IN the yellow cells on the 'Coder Sheet' tab. Grey cells are pre-filled - do not edit.
+"Sources: Basketball-Reference (transactions, injuries, schedule), contemporary news archives. Cite the source in the evidence cell."
+
+"EXAMPLE ROW (fictional, for format only - not a real team-season):"
+Face: Front Office | Score: 1 | Evidence: 'Drafted core (BR draft page); signed max free agent in July (BR transactions); no 2nd-round picks kept' | Rationale: 'Mixed: home-grown core but expensive free-agent bet crowded out depth.'
