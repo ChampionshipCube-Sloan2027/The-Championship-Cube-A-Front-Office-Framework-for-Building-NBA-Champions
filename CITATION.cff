@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this data, code or framework, please cite it as below."
+title: "The Championship Cube: A Six-Face Diagnostic Framework for Evaluating NBA Championship Contention"
+type: software
+authors:
+  - name: "ChampionshipCube-Sloan2027"
+abstract: >-
+  Data, analysis code and a prototype diagnostic (KIRIN) for the Championship Cube, a six-face
+  framework (Team, Player, Coach, Front Office, Controllable External and Uncontrollable External)
+  applied to 37 matched NBA champion / Finals runner-up pairs, 1989-90 to 2025-26. Team and Player
+  Faces are statistically tested; Coach Face and two Front Office proxies show no effect; the
+  organisational faces are an unvalidated single-coder pilot. Submitted to the MIT Sloan Sports
+  Analytics Conference (SSAC) 2027.
+repository-code: "https://github.com/ChampionshipCube-Sloan2027/The-Championship-Cube-A-Front-Office-Framework-for-Building-NBA-Champions"
+license: MIT
+keywords:
+  - NBA
+  - basketball analytics
+  - championship contention
+  - matched-pair analysis
+  - front office
+  - sports analytics
+date-released: 2026-09-29
