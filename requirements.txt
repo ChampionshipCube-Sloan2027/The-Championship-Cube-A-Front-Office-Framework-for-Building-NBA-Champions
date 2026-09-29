@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+fpdf2
+matplotlib
+openpyxl
+ipywidgets
